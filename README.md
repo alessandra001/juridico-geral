@@ -1,5 +1,5 @@
 # juridico-geral
-Assistente Jurídico GEral Automatizado com ChatGPT 
+Assistente Jurídico Geral Automatizado com ChatGPT 
 ## Descrição do Projeto
 Este projeto e um assistente jurídico automatizado em todas as areas do direito, desenvolvido para auxiliar advogados e profissionais do Direito na automatização de tarefas como a elaboração de petições, elaboração de pareceres, resposta a consultas jurídicas e pesquisa de jurisprudência. Utiliza a API do ChatGPT para gerar respostas precisas e textos legais, facilitando o trabalho repetitivo e economizando tempo.
 ## Recursos Implementados
